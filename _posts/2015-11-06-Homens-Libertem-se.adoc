@@ -1,0 +1,2 @@
+= Homens Libertem-se
+: hp-image: manifesto.jpg
