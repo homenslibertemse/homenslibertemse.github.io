@@ -1,4 +1,6 @@
 = Manifesto
 
+_manifesto homens libertem-se_
+
 
 image::manifesto.jpg[Manifesto Homens Libertem-se!]
