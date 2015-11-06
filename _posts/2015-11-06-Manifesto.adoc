@@ -1,2 +1,3 @@
 = Manifesto
-: hp-image: images/manifesto.jpg
+
+image:: <images/manifesto.jpg> []
