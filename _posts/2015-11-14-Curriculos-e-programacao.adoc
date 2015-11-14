@@ -1,12 +1,18 @@
 = Currículos e programação
 
 
+Rodas de Conversa:
 
 image::c1.jpg[c1]
 image::c2.jpg[c2]
 image::c3.jpg[c3]
 image::c4.jpg[c4]
+
+Mediadores:
+
 image::c5.jpg[c5]
 image::c6.jpg[c6]
+
+Encerramento:
+
 image::c7.jpg[c7]
-image::c8.jpg[c8]
