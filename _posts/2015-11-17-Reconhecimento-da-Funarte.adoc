@@ -1,4 +1,0 @@
-= Reconhecimento da Funarte
-
-
-image::reconhecimento_hls-funarte.jpg
