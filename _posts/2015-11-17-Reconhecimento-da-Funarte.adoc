@@ -1,4 +1,4 @@
 = Reconhecimento da Funarte
 
 
-image::reconhecimento_hls-funarte.pdf
+image::reconhecimento_hls-funarte.jpg
