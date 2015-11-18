@@ -4,10 +4,9 @@ ___
 O projeto "Homens, Libertem-se, evento de problematização das Masculinidades" foi idealizado pela Campanha "Homens, Libertem-se" e está sendo realizado em parceria com o Ministério da Saúde, através da Coordenação Nacional de Saúde do Homem, as Secretarias Municipais de Saúde e Cultura, apoio da Funarte e apoio de cessão de espaço do MAR (Museu de Arte do Rio), entre outros. O evento se dará no dia internacional do Homem - 19 de novembro - e propõe uma problematização das Masculinidades e um questionamento às normas de Gênero direcionadas aos homens, buscando uma reflexão sobre o quanto influenciam negativamente os campos íntimo, ético, sociocultural, político e mesmo econômico de nosso planeta. Haverá ainda, no evento, um especial foco de atenção nos temas do cuidado e saúde do homem.
 
 Contaremos com a presença de profissionais e debatedores de diversas áreas do conhecimento, como médicos, psicólogos, sociólogos, antropólogos, jornalistas, políticos, artistas, entre outros. O Secretário Municipal da Saúde Daniel Soranz fará a abertura das Rodas de Conversa, que trarão formadores de opinião como o ex-Ministro da Saúde José Gomes Temporão, os artistas Marcos Breda, Elisa Lucinda, Bosco Brasil, o crítico de cinema e jornalista Rodrigo Fonseca, entre outros. Oficinas, aulão com a Academia Carioca, Tendas de atendimento à saúde do Homem, Flash Mob, grafites, Intervenções Artísticas Urbanas (incluindo uma realizada pelo Centro do Teatro do Oprimido, fundado por Augusto Boal) e um Show Musical (dos renomados Arnaldo Brandão e Tavinho Paes) brindarão com reflexão e festividade a programação que ocorrerá durante todo o dia no período de 8h30 h. às 21h.
-___
 
 
-.MANHÃ:
+=== MANHÃ:
 
 8h30 às 12h – Praça Mauá
 
@@ -38,16 +37,19 @@ Ministrante: Guilherme Leoni
 10h às 13h – M.A.R – Auditório
 
 Exibição do filme “ O Poderoso Chefão” e Curtas Metragens com o tema das Masculinidades
-----
-.TARDE:
-----
+
+
+
+
+=== TARDE:
+
 13h – Praça Mauá
 
 Intervenção Artística Urbana – “ Homens Libertem-se”
 
 13h30h – M.A.R
 
-- Auditório:
+Auditório:
 
 Abertura das Rodas de Conversa pelo Secretário Municipal da Saúde Dr. DANIEL SORANZ
 
@@ -55,7 +57,7 @@ Roda de Conversa 1 : “Políticas Públicas pela Saúde do Homem” – José G
 
 Mediadora – Viviane Castello
 
-- Foyer:
+Foyer:
 
 Roda de Conversa 2 : “ Paternidade : do campo íntimo e espiritual ao político e ecológico” – Marcos Breda, Marcus Renato de Carvalho, Carlos Tonelli.
 
@@ -67,13 +69,13 @@ Intervenção Artística Urbana do Teatro Oprimido- Maremoto
 
 15h30 – M.A.R
 
-- Foyer:
+Foyer:
 
 Roda de Conversa 3: “ A Influência dos mitos das Masculinidades na sociedade, política e economia”- Bosco Brasil,Elisa Lucinda, Ana Gerbasi.
 
 Mediador – Breno Cypriano
 
-- Auditório:
+Auditório:
 
 Roda de Conversa 4: “ A representação do homem na mídia e nas artes” – Rodrigo Fonseca, Thiago Moyses e André Costa Pinto
 
@@ -85,7 +87,8 @@ Flash Mob
 
 18h às 19h30 – M.A.R.
 
-Encerramento – Roda de Conversa
+
+=== Encerramento – Roda de Conversa
 
 “ Homens, Libertem-se” – Christina Montenegro, Marcelo Rocco e Thiago Moyses
 
@@ -122,21 +125,20 @@ Horário: 8h30 h. às 21h.
 
 Local: Museu de Arte do Rio M.A.R. (Praça Mauá, 5 Centro) e Praça Mauá
 
-----
 
 
-=== Rodas de Conversa:
+==== Rodas de Conversa:
 
 image::c1.jpg[c1]
 image::c2.jpg[c2]
 image::c3.jpg[c3]
 image::c4.jpg[c4]
 
-=== Mediadores:
+==== Mediadores:
 
 image::c5.jpg[c5]
 image::c6.jpg[c6]
 
-=== Encerramento:
+==== Encerramento:
 
 image::c7.jpg[c7]
