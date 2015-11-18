@@ -116,6 +116,14 @@ image::c7.jpg[c7]
 - Apresentação musical por Arnaldo Brandão e a cantora de ópera Clarice Gonzallez
 
 ****
+****
+==== *MEDIADORES*
+
+image::c5.jpg[c5]
+image::c6.jpg[c6]
+
+****
+
 
 ===== *INSCRIÇÃO PARA OFICINAS E RODAS DE CONVERSA*
 
@@ -143,7 +151,4 @@ Local: Museu de Arte do Rio M.A.R. (Praça Mauá, 5 Centro) e Praça Mauá
 
 ****
 
-==== *MEDIADORES*
 
-image::c5.jpg[c5]
-image::c6.jpg[c6]
