@@ -58,11 +58,15 @@ Ministrante: Guilherme Leoni
 
 Mediadora – Viviane Castello
 
+image::c1.jpg[c1]
+
 * Foyer:
 
 - Roda de Conversa 2 : “ Paternidade : do campo íntimo e espiritual ao político e ecológico” – Marcos Breda, Marcus Renato de Carvalho, Carlos Tonelli.
 
 Mediador: Renato Lima de Oliveira
+
+image::c2.jpg[c2]
 
 15h – Praça Mauá
 
@@ -76,11 +80,15 @@ Mediador: Renato Lima de Oliveira
 
 Mediador – Breno Cypriano
 
+image::c3.jpg[c3]
+
 * Auditório:
 
 - Roda de Conversa 4: “ A representação do homem na mídia e nas artes” – Rodrigo Fonseca, Thiago Moyses e André Costa Pinto
 
 Mediador – Marcelo Rocco
+
+image::c4.jpg[c4]
 
 17h30 – Praça Mauá
 
@@ -135,10 +143,7 @@ Local: Museu de Arte do Rio M.A.R. (Praça Mauá, 5 Centro) e Praça Mauá
 
 ===== Rodas de Conversa:
 
-image::c1.jpg[c1]
-image::c2.jpg[c2]
-image::c3.jpg[c3]
-image::c4.jpg[c4]
+
 
 ===== Mediadores:
 
