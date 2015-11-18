@@ -68,6 +68,9 @@ Mediador: Renato Lima de Oliveira
 
 image::c2.jpg[c2]
 
+
+image::c5.jpg[c5]
+
 15h – Praça Mauá
 
 - Intervenção Artística Urbana do Teatro Oprimido- Maremoto
@@ -109,6 +112,8 @@ Mediador: Marcello Accetta
 
 image::c7.jpg[c7]
 
+image::c6.jpg[c6]
+
 19h30 – Praça Mauá
 
 - Apresentação musical por Toninho Paes, Arnaldo Brandão e poetas
@@ -116,11 +121,7 @@ image::c7.jpg[c7]
 - Apresentação musical por Arnaldo Brandão e a cantora de ópera Clarice Gonzallez
 
 ****
-==== *MEDIADORES*
-****
-image::c5.jpg[c5]
-image::c6.jpg[c6]
-****
+
 
 
 ****
