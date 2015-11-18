@@ -107,6 +107,8 @@ image::c4.jpg[c4]
 
 Mediador: Marcello Accetta
 
+image::c7.jpg[c7]
+
 19h30 – Praça Mauá
 
 - Apresentação musical por Toninho Paes, Arnaldo Brandão e poetas
@@ -140,16 +142,3 @@ Horário: 8h30 h. às 21h.
 Local: Museu de Arte do Rio M.A.R. (Praça Mauá, 5 Centro) e Praça Mauá
 
 ****
-
-===== Rodas de Conversa:
-
-
-
-===== Mediadores:
-
-image::c5.jpg[c5]
-image::c6.jpg[c6]
-
-===== Encerramento:
-
-image::c7.jpg[c7]
